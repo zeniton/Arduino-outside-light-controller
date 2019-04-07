@@ -37,7 +37,7 @@ Components
 - ATTiny85 
 - LDR and potentiometer
 - A motion sensor
-- PNP transistors
+- NPN transistors
 
 Software Applications
 ---------------------
